@@ -7,6 +7,6 @@ var conv_bin = val.toString(2);
 var conv_oct = val.toString(8);
 var conv_hex = val.toString(16).toUpperCase();
 
-console.log("\nHasil Biner ->", conv_bin);
-console.log("Hasil Octa ->", conv_oct);
-console.log("Hasil Hexa ->", conv_hex);
+console.log("\nNilai Biner ->", conv_bin);
+console.log("Nilai Octa ->", conv_oct);
+console.log("Nilai Hexa ->", conv_hex);
